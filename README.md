@@ -7,6 +7,10 @@
 - 🥅 2020 Goal: as any other year make the world better
 - ⚡ Fun fact: I use Latin to sound more _intus legere_
 
+### Now Playing
+
+[![Spotify](https://spotify-now-playing.0xlyd.vercel.app/api/spotify-playing)](https://open.spotify.com/user/aleppefoundation)
+
 ### Connect with me:
 
 [<img align="left" alt="lydaniel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -36,7 +40,7 @@
 
 ---
 
-<img align="left" alt="L.Y. Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucaydaniel&show_icons=true&hide_border=true" />
+<img align="left" alt="L.Y. Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xlyd&show_icons=true&hide_border=true" />
 
 [website]: https://lydaniel.com
 [twitter]: https://twitter.com/0xlyd
