@@ -1,10 +1,10 @@
-### Hey, Luca here - aka [L. Y. Daniel](https://lydaniel.com) 👋
+### Hey, Luca here - aka [0xlyd](https://0xlyd.com) 👋
 
 ## I am a Tech Entrepeneur on a quest to make the world a better place
 
-- ⚖️ I am currently making Justice more open, effficient and accessibile [@Jur](https://jur.io)
-- 🌱 I am currently searching for someone to expand my previous venture [@Jeetlab](https://jeetlab.com)
-- 🥅 2020 Goal: as any other year make the world better
+- 🌱 I am currently working on a kickass bootstrapped high quality software development studio [@Aguadulce](https://aguadulcehq.com)
+- ⚖️ I am making Justice more open, effficient and accessibile advising [@Jur](https://jur.io)
+- 🥅 2022 Goal: as any other year make the world better
 - ⚡ Fun fact: I use Latin to sound more _intus legere_
 
 ### Now Playing
@@ -40,8 +40,8 @@
 
 ---
 
-<img align="left" alt="L.Y. Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xlyd&show_icons=true&hide_border=true" />
+<img align="left" alt="0xlyd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xlyd&show_icons=true&hide_border=true" />
 
-[website]: https://lydaniel.com
+[website]: https://0xlyd.com
 [twitter]: https://twitter.com/0xlyd
 [linkedin]: https://linkedin.com/in/lucaydaniel
