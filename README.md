@@ -2,25 +2,26 @@
 
 ## I am a Tech Entrepeneur on a quest to make the world a better place
 
-- 🌱 I am currently working on a kickass bootstrapped high quality software development studio [@Aguadulce](https://aguadulcehq.com)
-- ⚖️ I am making Justice more open, effficient and accessibile advising [@Jur](https://jur.io)
-- 🥅 2022 Goal: as any other year make the world better
+- 🌱 I am currently _gritting_ on a kickass bootstrapped high quality software development studio, mostly focused on blockchain development [@Aguadulce](https://aguadulcehq.com)
+- ⚖️ I am making new social constructs for people to live together in a trustless way by advising [@Jur](https://jur.io)
+- 🥅 2023 Goal: as any other year make the world better
 - ⚡ Fun fact: I use Latin to sound more _intus legere_
 
 ### Now Playing
 
-[![Spotify](https://spotify-now-playing.0xlyd.vercel.app/api/spotify-playing)](https://open.spotify.com/user/aleppefoundation)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aleppefoundation&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aleppefoundation&redirect=true)
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="lydaniel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="0xlyd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lucaydaniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lydaniel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://0xlyd.com)
+[<img align="left" alt="0xlyd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0xlyd)
+[<img align="left" alt="lucaydaniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/0xlyd)
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
