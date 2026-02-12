@@ -2,14 +2,10 @@
 
 ## I am a Tech Entrepeneur on a quest to make the world a better place
 
-- 🌱 I am currently _gritting_ on a kickass bootstrapped high quality software development studio, mostly focused on blockchain development [@Aguadulce](https://aguadulcehq.com)
-- ⚖️ I am making new social constructs for people to live together in a trustless way by advising [@Jur](https://jur.io)
-- 🥅 2023 Goal: as any other year make the world better
+- 👨‍💻 Currently building [⌘Squad](https://cmdsquad.com) the editor for the AI era: rethinking how we, as developers, code
+- 🌱 Side-hustling LifeOS, an AI-powered life assistant and coach that helps us connect with each other [@LifeOS](https://trylifeos.com)
+- 👔 Advising my bootstrapped dev studio, focused mainly on blockchain development [@Aguadulce](https://aguadulcehq.com)
 - ⚡ Fun fact: I use Latin to sound more _intus legere_
-
-### Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aleppefoundation&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aleppefoundation&redirect=true)
 
 ### Connect with me
 
@@ -41,8 +37,6 @@
 
 ---
 
-<img align="left" alt="0xlyd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xlyd&show_icons=true&hide_border=true" />
-
 [website]: https://0xlyd.com
-[twitter]: https://twitter.com/0xlyd
 [linkedin]: https://linkedin.com/in/lucaydaniel
+[twitter]: https://twitter.com/0xlyd
