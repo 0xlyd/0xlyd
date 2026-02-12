@@ -3,8 +3,8 @@
 ## I am a Tech Entrepeneur on a quest to make the world a better place
 
 - 👨‍💻 Currently building [⌘Squad](https://cmdsquad.com) the editor for the AI era: rethinking how we, as developers, code
-- 🌱 Side-hustling LifeOS, an AI-powered life assistant and coach that helps us connect with each other [@LifeOS](https://trylifeos.com)
-- 👔 Advising my bootstrapped dev studio, focused mainly on blockchain development [@Aguadulce](https://aguadulcehq.com)
+- 🌱 Side-hustling [@LifeOS](https://trylifeos.com), an AI-powered life assistant and coach that helps us connect with each other
+- 👔 Advising my bootstrapped dev studio [@Aguadulce](https://aguadulcehq.com), focused mainly on blockchain development
 - ⚡ Fun fact: I use Latin to sound more _intus legere_
 
 ### Connect with me
